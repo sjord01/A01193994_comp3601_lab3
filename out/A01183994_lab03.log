@@ -1,0 +1,4 @@
+2024-10-16 00:20:58.369 [main] ERROR a01183994.io.CustomerReader - Invalid email for customer: xkcasjh
+2024-10-16 00:21:26.552 [main] ERROR a01183994.io.CustomerReport - Error: Please provide exactly one argument containing customer data.
+2024-10-16 00:21:55.257 [main] ERROR a01183994.io.CustomerReport - Error: Please provide exactly one argument containing customer data.
+2024-10-16 00:24:51.251 [main] ERROR a01183994.io.CustomerReport - Error: Please provide exactly one argument containing customer data.
